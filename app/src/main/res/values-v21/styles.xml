@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/yazi</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/yazi</item>
+    </style>
+
+    <style name="Theme.Material.Light.NoActionBar" parent="android:Theme.Material" />
+
+    <style name="tema" parent="android:Theme.Material.Light.Dialog" />
+</resources>

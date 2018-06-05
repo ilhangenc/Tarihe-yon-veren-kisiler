@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#76ff03</color>
+    <color name="arka">#F9FBE7</color>
+    <color name="yazi">#212121</color>
+    <color name="drawer">#EF9A9A</color>
+    <color name="drawer_ust">#00B0FF</color>
+    <color name="onarka">#FFCDD2</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="tus">#673AB7</color>
+</resources>

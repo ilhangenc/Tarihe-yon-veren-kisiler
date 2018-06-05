@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="1dp"
+    android:background="@color/yazi"
+    android:id="@+id/fragment2"
+
+    tools:context="com.tariheyonverenkisiler.ilhangenc.sssssssssssssssssssssssss.Tab2">
+
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="209dp"
+        android:src="@drawable/bob" />
+
+    <TextView
+        android:id="@+id/sanatisim"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:textColor="@color/beyaz"
+
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text=""
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColorLink="@android:color/background_dark"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        tools:textStyle="bold|italic" />
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:id="@+id/sanattext"
+            android:textColor="@color/beyaz"
+            android:textStyle="italic"
+            android:visibility="visible" />
+    </ScrollView>
+
+
+</LinearLayout>

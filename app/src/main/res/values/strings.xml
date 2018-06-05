@@ -1,0 +1,37 @@
+<resources>
+    <string name="facebook_app_id">2021143274790477</string>
+    <string name="mara"></string>
+    <string name="facebook_login_protocol_scheme">fb2021143274790477</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="isim"><u>Dieo Armando Maradona</u></string>
+    <string name="tanitim"> \t Tarihe yön veren kişiler 2018 yılında gncapp tarafından oluşturulumuştur.
+    Tarihe yön veren kişiler uygulaması spor,kültür-sanat ve bilim alanında tarihe  yön vermiş ve gelecek nesillere
+        ilham kaynağı olmuş kişileri her gün farklı 3 kişi olmak üzere kullanıcılara sunmaktadır.Siz kullanıcılara
+        en doğru bilgileri sunmak için veriler farklı kaynaklardan teyit edilip sizlere aktarılmaktadır.\n
+        Tarihi yeniden yaşamak için bizimle kalın..
+    </string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="app_name"> \t \t \t \t Tarihe yön veren kişiler</string>
+    <string name="Open">Navbar</string>
+    <string name="Close">NavBar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yazi"
+
+
+    android:paddingTop="30sp"
+    >
+
+
+    <TextView
+        android:paddingLeft="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tarihte bugün"
+
+        android:textSize="30dp"
+        android:textColor="@color/beyaz"
+        />
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="6dp"
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/olaytext"
+
+        android:textColor="@color/beyaz"
+        />
+</ScrollView>
+
+</LinearLayout>
